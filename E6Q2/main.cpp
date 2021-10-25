@@ -1,4 +1,4 @@
-//Ranit Zohar ID  208569327
+//Ranit Zohar
 //מעבדה 6 שאלה 1
 // סדנא ב C
 //The program receives two-polygon data. The program should check whether the two polygons are equal
