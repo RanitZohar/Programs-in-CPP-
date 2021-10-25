@@ -1,4 +1,4 @@
-//Ranit Zohar ID  208569327
+//Ranit Zohar 
 //מעבדה 5 שאלה 2
 // סדנא ב C
 // the program add to more function on the program in question 1
