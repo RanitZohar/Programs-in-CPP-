@@ -1,4 +1,4 @@
-//Ranit Zohar ID  208569327
+//Ranit Zohar 
 // שאלה 4
 // סדנא ב C
 //the program help to mennegment ATMS 
