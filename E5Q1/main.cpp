@@ -1,4 +1,4 @@
-//Ranit Zohar ID  208569327
+//Ranit Zohar 
 //מעבדה 5 שאלה 1
 // סדנא ב C
 //the program complete the List class definition that is displayed in the class so that it can handle a list containing sorted organs in ascending order
