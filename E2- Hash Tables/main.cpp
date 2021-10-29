@@ -1,6 +1,5 @@
-//Submissions:
-// Ranit Zohar,   ID:208569327
-//Bar Baruchel, ID: 208631853
+// Ranit Zohar
+
 #include "HashTable.h"
 #include "Item.h"
 #include "HSubject.h"
