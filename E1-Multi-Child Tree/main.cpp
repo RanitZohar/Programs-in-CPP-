@@ -1,7 +1,4 @@
-//Submissions:
-// Ranit Zohar,   ID:208569327
-//Bar Baruchel, ID: 208631853
-
+// Ranit Zohar
 
 #include <iostream>
 #include <list>
