@@ -1,5 +1,4 @@
-//Bar Baruchel 208631853
-//Ranit Zohar 208569327
+//Ranit Zohar 
 //A set of follow-up recommendations for the members who write in the discussion trees.
 #include <iostream>
 #include <string>
